@@ -1,14 +1,13 @@
 body {
-  background-image: url(https://d1k3q0ugxih2r.cloudfront.net/_imager/files/static/conference/cinema/13118/PLAYHOUSE_f7d24497a43d8b641b7dfb62517060d6.jpg);
-  background-size: cover;
+  background-color: #D7C0D0;
 }
 
 li {
   list-style-type: none;
   text-align: center;
-  color: white;
+  color: #751358;
 }
 
 h1 {
-  color: white;
+  color: #751358;
 }
