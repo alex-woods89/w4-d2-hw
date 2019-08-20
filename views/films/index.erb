@@ -1,0 +1,6 @@
+
+<ul>
+<% @films.each do |film| %>
+<li><a href ="film/<%=film.id%>"><%= film.title %></a></li>
+<%end%>
+</ul>
